@@ -31,30 +31,40 @@ Section 2: Take your task list & estimate the time & costs needed to complete al
 Section 3: Determine the full lenghth of your start up phase (Launch + 3 months) 
 (Follow the steps on Slide 7: "Estimate Startup Phase")
 
-1. [Total time to complete all tasks: hrs (+480)] 
-2. [Hrs per week free to commit to tasks: 20]
-3. [Startup Phase Length: 24/0]
+1. Total time to complete all tasks: 6.5 hrs (+480)
+→ 486.5 total hours
 
+2. Hrs per week free to commit to tasks: 20 hrs/week
+
+3. Startup Phase Length:
+486.5 hrs ÷ 20 hrs/week = 24.3 weeks
+≈ 6 months
 ----------------------------------------------------------------------
 
 Section 4: Calculate your net worth & assets you can contribute to the business
 (Follow the steps on Slides 11-13: "Assess Your Assets")
 
 Assets
-1. Lemon juice
-2. 
-3. ...
-4. ...
-5. ... 
-6. [Total Assets: 500]
+Lemon juice
 
-Liabilities
-1. lemons
-2. cups
-3. ...
-4. ...
-5. ...
-6. [Total Liabilities: -100]
+Cooler
+
+Pitcher
+
+Table
+
+Cups
+
+Total Assets: $500
+Lemons (cost owed)
+
+Cups (cost owed)
+
+
+Total Liabilities: $100 (corrected to positive)
+
+Net Worth:
+Assets – Liabilities = $500 – $100 = $400
 
 Net Worth: [Assets - Liabilties]
 ----------------------------------------------------------------------
@@ -63,9 +73,13 @@ Section 5: Gather your External Resources that will help start this business
 
 External Resources
 
-1. [External Resource]
-2. Sugesttions
-3. ...
-4. ...
-5. ...
+1. Local grocery store (for supplies)
+
+2. Suggestions: Parents/guardians for help or transportation
+
+3. A friend to help advertise
+
+4. Community center for permission to set up stand
+
+5. YouTube tutorials for recipe ideas
 ----------------------------------------------------------------------
