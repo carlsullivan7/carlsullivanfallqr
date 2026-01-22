@@ -18,7 +18,7 @@ Lean Business Plan — Deadstock Revival Co.
 1. Executive Summary / Identity
 
 Identity:
-Deadstock Revival Co. sources unused, discontinued, or unsold clothing (“deadstock”) from small and unpopular brands and resells them through a modern online platform.
+Deadstock Revival Co. sources unused, discontinued, or unsold clothing from small and unpopular brands and resells them through a modern online platform.
 
 2. Company Description / Problem + Solution
 
